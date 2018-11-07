@@ -1,6 +1,6 @@
 # Our Story
 
-During [penCon 2018] (https://www.opencon2018.org) a group of motivated advocates, researchers, librarians, and scholars gathered to discuss the ways we could decolonize scholarship. During this discussion everyone was allowed space to share their perspectives and motivations for joining this Un-Conference session. 
+During [OpenCon 2018](https://www.opencon2018.org) a group of motivated advocates, researchers, librarians, and scholars gathered to discuss the ways we could decolonize scholarship. During this discussion everyone was allowed space to share their perspectives and motivations for joining this Un-Conference session. 
 
 While we were in the session our facilitators broke us into groups based on interests expressed in our introductions. One member of the group mentioned Naomi Wolff’s book titled, The End of America, and the context of how she describes closing an open society. Applying this to the creation of knowledge and opening academic scholarship the group ruminated on the idea and she read off the 10 steps to close an open society (see addendum). 
 
