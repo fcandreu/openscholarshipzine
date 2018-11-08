@@ -1,1 +1,0 @@
-#Open Scholarship Zine
