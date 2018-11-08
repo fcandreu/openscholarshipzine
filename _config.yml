@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Open Scholarship Zine
 logo: https://fcandreu.github.io/openscholarshipzine/IMG_0012.PNG
-
-title: The 10 Steps
-url: https://fcandreu.github.io/openscholarshipzine/tensteps.html
+docs:
+- title: The 10 Steps
+  url: https://fcandreu.github.io/openscholarshipzine/tensteps.html
